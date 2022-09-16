@@ -14,3 +14,4 @@ Creating an E-Learning Platform
 
 ## Team members
 Seina Assadian @seinaas
+Fida Inthesar @FidaInthesar
