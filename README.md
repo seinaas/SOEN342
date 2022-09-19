@@ -13,12 +13,12 @@ Creating an E-Learning Platform
 > TODO
 
 ## Team members
-Seina Assadian @seinaas  
-Mehdi Samy Refik @SamRfk  
-William Tremblay @WillTrem  
-Chloe Hei Yu Law @chloehylaw  
-Kevin Marnet Scanlan @GuardiansAscend  
-Maria Rivas @MariaR001  
-Luca Dallaire @lucadallaire  
-Adam Qamar @aqa02  
-Mohammad Afandi @AfandiM  
+**Seina Assadian** - 40125587 (@seinaas)  
+**Mehdi Samy Refik** - 40175150 (@SamRfk)  
+**William Tremblay** - 40174212 (@WillTrem)  
+**Chloe Hei Yu Law** - 40173275 (@chloehylaw)  
+**Kevin Marnet Scanlan** - 40175644 (@GuardiansAscend)  
+**Maria Rivas** - 40174860 (@MariaR001)  
+**Luca Dallaire** - 40132255 (@lucadallaire)  
+**Adam Qamar** - 40175980 (@aqa02)  
+**Mohammad Afandi** - 40174331 (@AfandiM)  
