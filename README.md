@@ -4,7 +4,7 @@
 Creating an E-Learning Platform that makes use of an experience points system and avatar cosmetics to keep students engaged and motivated to learn.
 
 ## Objective
-Our goal is to create the diagrams, documentation and mock-ups required for this project to come to life, so that the development process could begin from there.
+Our objective is to create a platform that will benefit students struggling to keep up with academic demands. By veering away from traditional methods used by reputable services such as Wyzant, Pearson, The Princeton Review, and Skooli, and providing an intuitive service that rewards its users for progressing, we can incentivize students to be proactive about their education, and motivate them to learn. We aim on providing a gamified experience similar to Classcraft, but moreso geared towards a tutoring environment instead of a classroom. This, in turn, makes learning more engaging and interactive for both the student and the tutor.
 
 ## Features
 - Account creation
